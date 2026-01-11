@@ -223,7 +223,7 @@ python vasp_structure_rattler_deformer.py \
 
 ### Citation
 If you use this workflow or data in your research, please cite the following:
-  - Our paper ...
+  - Our paper: https://arxiv.org/abs/2510.24952
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
