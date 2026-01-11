@@ -107,9 +107,10 @@ Clearly, these POSCARs are used in DFT calculations to enhance DB quality.
 - To expand our DB with higher concentrations and random defect geometries, we generated unique defect configurations by randomly removing two and three boron vacancies. This dataset contributed 400 new entries to the DB.
 All structures were relaxed with the `Step 4` NEP potential and subsequently subjected to single‑point calculations using the same high‑precision settings described above.
 
-<table border="1"><tr><td>
-<strong>NOTE&nbsp;</strong>─ Next, we broaden the database to capture the nuanced anchoring of Cu adatoms to *V*<sub>B</sub> on the hBN/SiC surface.
+<table><tr><td>
+<strong>NOTE</strong> — We next broaden the database to capture the nuanced anchoring of Cu adatoms at <em>V</em><sub>B</sub> sites on the hBN/SiC surface.
 </td></tr></table>
+
 
 #### 6. AIMD Simulations of Distinct Monovacancy-Cu Coupling Configurations
 - For four energetically distinct defective hBN/SiC structures, resulted by various number of **N-Si bonds**, we performed AIMD simulations similar to `Step 2`. One structure was extracted every 300 steps, resulting in a total of 80 new configurations added to the database.
